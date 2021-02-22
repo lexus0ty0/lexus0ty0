@@ -1,0 +1,35 @@
+@media {
+
+    .main {
+        text-align: center;
+    }
+
+    .lesson {
+        width: 30%;
+        margin-bottom: 50px;
+        text-align: center;
+        padding-right: 20px;
+        margin-left: 40px;
+    }
+
+    .lesson img {
+        text-align: center;
+    }
+
+    .lesson-wrapper {
+        text-align: center;
+    }
+
+
+
+    .copy-container h1 {
+        font-size: 50px;
+    }
+
+    .copy-container h2 {
+        font-size: 20px;
+    }
+
+    input, textarea {
+        width: 100%;
+    }
