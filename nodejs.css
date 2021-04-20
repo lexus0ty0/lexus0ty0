@@ -1,0 +1,49 @@
+@media screen and (max-width: 670px) {
+
+    .header-list {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    .main {
+        padding: 200px 25px 50px 25px;
+        text-align: center;
+    }
+
+    .copy-container h1 {
+        font-size: 42px;
+    }
+
+    .copy-container h2 {
+        font-size: 15px;
+    }
+
+    .lesson-item {
+        margin-right: 0;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    .lesson-item p {
+        font-size: 20px;
+    }
+
+    input, textarea {
+        width: 250px;
+    }
+
+    .lesson-wrapper {
+        padding-top: 50px;
+    }
+
+    .contact-wrapper {
+        padding-top: 0px;
+    }
+
+    .bottom-img img {
+        width: 250px;
+    }
+}
